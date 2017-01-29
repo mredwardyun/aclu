@@ -1,0 +1,122 @@
+{
+	'contributors': None, 
+	'truncated': False, 
+	'text': '@sacca @ACLU https://t.co/Q46Pq4iEqR', 
+	'is_quote_status': False, 
+	'in_reply_to_status_id': 825431544022102016, 
+	'id': 825808414328623105, 
+	'favorite_count': 0, 
+	'entities': {
+		'symbols': [], 
+		'user_mentions': [{
+			'id': 586, 
+			'indices': [0, 6], 
+			'id_str': '586', 
+			'screen_name': 'sacca', 
+			'name': 'Chris Sacca'
+		}, 
+		{
+			'id': 13393052, 
+			'indices': [7, 12], 
+			'id_str': '13393052', 
+			'screen_name': 'ACL', 
+			'name': 'ACLU National'
+		}], 
+		'hashtags': [], 
+		'urls': [], 
+		'media': [{
+			'expanded_url': 'https://twitter.com/getthatrich/status/825808414328623105/photo/1', 
+			'display_url': 'pic.twitter.com/Q46Pq4iEqR', 
+			'url': 'https://t.co/Q46Pq4iEqR', 
+			'media_url_https': 'https://pbs.twimg.com/media/C3XcXw_UMAA3wFM.jpg', 
+			'id_str': '825808407537922048', 
+			'sizes': {'large': {'h': 1024, 'resize': 'fit', 'w': 575}, 
+			'small': {'h': 680, 'resize': 'fit', 'w': 382}, 
+			'medium': {'h': 1024, 'resize': 'fit', 'w': 575}, 
+			'thumb': {'h': 150, 'resize': 'crop', 'w': 150}}, 
+			'indices': [13, 36], 'type': 'photo', 
+			'id': 825808407537922048, 
+			'media_url': 'http://pbs.twimg.com/media/C3XcXw_UMAA3wFM.jpg'
+		}
+	]}, 
+	'retweeted': False, 
+	'coordinates': None, 
+	'source': '<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>', 
+	'in_reply_to_screen_name': 'sacca', 
+	'in_reply_to_user_id': 586, 
+	'retweet_count': 0, 
+	'id_str': '825808414328623105', 
+	'favorited': False, 
+	'user': {'follow_request_sent': False, 
+	'has_extended_profile': False, 
+	'profile_use_background_image': True, 
+	'default_profile_image': False, 
+	'id': 2852448397, 'profile_background_image_url_https': 
+	'https://abs.twimg.com/images/themes/theme1/bg.png', 
+	'verified': False, 
+	'translator_type': 'none', 
+	'profile_text_color': '333333', 
+	'profile_image_url_https': 'https://pbs.twimg.com/profile_images/785280471210954753/DkBedxDp_normal.jpg', 
+	'profile_sidebar_fill_color': 'DDEEF6', 
+	'entities': {
+		'description': {
+			'urls': []
+		}
+	}, 
+	'followers_count': 39, 
+	'profile_sidebar_border_color': 'C0DEED', 
+	'id_str': '2852448397', 
+	'profile_background_color': 'C0DEED', 
+	'listed_count': 4, 
+	'is_translation_enabled': False, 
+	'utc_offset': None, 
+	'statuses_count': 2560, 
+	'description': '', 
+	'friends_count': 381, 
+	'location': '', 
+	'profile_link_color': '1DA1F2', 
+	'profile_image_url': 
+	'http://pbs.twimg.com/profile_images/785280471210954753/DkBedxDp_normal.jpg', 
+	'following': False, 
+	'geo_enabled': True, 
+	'profile_banner_url': 'https://pbs.twimg.com/profile_banners/2852448397/1413066525', 
+	'profile_background_image_url': 'http://abs.twimg.com/images/themes/theme1/bg.png', 
+	'screen_name': 'getthatrich', 
+	'lang': 'en', 
+	'profile_background_tile': False, 
+	'favourites_count': 1622, 
+	'name': 'Alex Last', 
+	'notifications': False, 
+	'url': None, 
+	'created_at': 'Sat Oct 11 22:27:50 +0000 2014', 
+	'contributors_enabled': False, 
+	'time_zone': None, 
+	'protected': False, 
+	'default_profile': True, 
+	'is_translator': False}, 
+	'geo': None, 
+	'in_reply_to_user_id_str': '586', 
+	'possibly_sensitive': False, 
+	'lang': 'und', 
+	'created_at': 'Sun Jan 29 20:50:43 +0000 2017', 
+	'in_reply_to_status_id_str': '825431544022102016', 
+	'place': None, 
+	'extended_entities': {
+		'media': [{
+			'expanded_url': 'https://twitter.com/getthatrich/status/825808414328623105/photo/1', 
+			'display_url': 'pic.twitter.com/Q46Pq4iEqR', 
+			'url': 'https://t.co/Q46Pq4iEqR', 
+			'media_url_https': 'https://pbs.twimg.com/media/C3XcXw_UMAA3wFM.jpg', 
+			'id_str': '825808407537922048', 
+			'sizes': {
+				'large': {'h': 1024, 'resize': 'fit', 'w': 575}, 
+				'small': {'h': 680, 'resize': 'fit', 'w': 382}, 
+				'medium': {'h': 1024, 'resize': 'fit', 'w': 575}, 
+				'thumb': {'h': 150, 'resize': 'crop', 'w': 150}
+			}, 
+			'indices': [13, 36], 'type': 'photo', 'id': 825808407537922048, 
+			'media_url': 'http://pbs.twimg.com/media/C3XcXw_UMAA3wFM.jpg'
+		}]
+	}, 
+	'metadata': {'iso_language_code': 'und', 'result_type': 'recent'}
+}
